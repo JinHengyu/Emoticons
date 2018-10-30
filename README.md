@@ -1,3 +1,1 @@
 # emoji
-# fontFamily
-# landscape
